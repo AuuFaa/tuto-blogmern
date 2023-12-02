@@ -14,7 +14,7 @@ export default function Header() {
   };
 
   return (
-    <section className="sticky top-0 left-0 right-0 z-50">
+    <section className="sticky top-0 left-0 right-0 z-50 bg-white">
     <header className="container mx-auto px-5 py-3 ">
       <div className='flex justify-between  items-center  p-3'>
       <div className="w-16"><img src={images.Logo} alt="logo" /></div>
