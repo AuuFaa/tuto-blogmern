@@ -3,7 +3,7 @@ import HomePage from './pages/HomePage'
 
 export default function App() {
   return (
-    <div className="App">
+    <div className="App font-opensans">
       <HomePage />
     </div>
     
